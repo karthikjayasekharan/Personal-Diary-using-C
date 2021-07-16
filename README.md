@@ -60,4 +60,5 @@ I would like thank Dr.Rajesh Kannan sir for giving us an opportunity to do this 
 
 The source code and information used for this project was referred from
 
-1. https://code-projects.org/personal-diary-management-system-c-programming-source-code/ 2. https://projectabstracts.com/25380/personal-diary-management-system-in-c-programming-with-source-code.html
+1. https://code-projects.org/personal-diary-management-system-c-programming-source-code/ 
+2. https://projectabstracts.com/25380/personal-diary-management-system-in-c-programming-with-source-code.html
